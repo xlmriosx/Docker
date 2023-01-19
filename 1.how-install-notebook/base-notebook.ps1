@@ -1,3 +1,4 @@
+
 $sep = "#################"
 Write-Output "$sep STARTING... $sep"
 
@@ -17,4 +18,4 @@ if(Test-Path "$PSScriptRoot/virtualenv"){
 }
 
 Write-Output "$sep RUNNING JUPYTER $sep"
-jupyter-lab
+jupyter-notebook
