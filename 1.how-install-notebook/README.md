@@ -1,18 +1,31 @@
 # How install notebook
 
+Pre-Conditions:
+- Have Python installed.
+
+---
+
 ## Core based on Unix
 
-Pre-Conditions:
-- Have Docker
-
 Steps:
-1. Run image that was build by Jupyter.
+- Set your position where is the script.
+- Run script that build Jupyter.
 Yo can do that run this:
 
-`docker run -it -p 8888:8888 jupyter/base-notebook`
+`sh base-notebook.sh`
 
-This automatically download image if you have not it an later run it.
+This automatically download packages and run Jupyter Notebook.
+
+---
 
 ## Core based on Windows
 
+Steps:
+- Set your position where is the script.
+- Run script that build Jupyter.
+Yo can do that run this:
+
+`powershell.exe base-notebook.ps1`
+
+This automatically download packages and run Jupyter Notebook.
 
