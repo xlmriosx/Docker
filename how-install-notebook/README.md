@@ -3,6 +3,9 @@
 ---
 
 ## 🔗Related content 
+### You can find post related in: 
+👨‍💻[DEV](https://dev.to/xlmriosx/how-install-jupyter-2f7j) 
+
 ### You can find video related in:
 📺[YouTube](https://youtu.be/sN6y5m2qV6Y) 
 
